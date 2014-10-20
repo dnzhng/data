@@ -1,0 +1,1380 @@
+{
+  "uri": "https://scholars.duke.edu/individual/per8194252",
+  "vivoType": "http://vivoweb.org/ontology/core#FacultyMember",
+  "label": "Baker, Lee D.",
+  "title": "Professor of Cultural Anthropology",
+  "publications": [{
+    "uri": "https://scholars.duke.edu/individual/pub1013059",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Meet Lee Baker, The State of Things, WUNC National Public Radio",
+    "attributes": {
+      "icmjeCitation": "<a href=\"https://scholars.duke.edu/individual/pub1013059\">Meet Lee Baker, The State of Things, WUNC National Public Radio.</a> 2010 Apr.",
+      "mlaCitation": "<a href=\"https://scholars.duke.edu/individual/pub1013059\">\"Meet Lee Baker, The State of Things, WUNC National Public Radio.\"</a> (April 2010).",
+      "isFavorite": "true",
+      "authorList": "",
+      "datetime": "https://scholars.duke.edu/individual/dateValue201004",
+      "apaCitation": "(2010, April). <a href=\"https://scholars.duke.edu/individual/pub1013059\">Meet Lee Baker, The State of Things, WUNC National Public Radio.</a>",
+      "year": "2010-04-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "<a href=\"https://scholars.duke.edu/individual/pub1013059\">\"Meet Lee Baker, The State of Things, WUNC National Public Radio.\"</a> (April 2010).",
+      "authorship": "https://scholars.duke.edu/individual/author1013059-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub718390",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "The cult of Franz Boas and his \"conspiracy\" to destroy the white race.",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub718390\">The cult of Franz Boas and his \"conspiracy\" to destroy the white race.</a> Proc Am Philos Soc. 2010 Mar;154(1):8-18. PubMed PMID: 20695237.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub718390\">\"The cult of Franz Boas and his \"conspiracy\" to destroy the white race.\"</a> <em>Proc Am Philos Soc</em> 154.1 (March 2010): 8-18.",
+      "isFavorite": "true",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue201003",
+      "pmid": "20695237",
+      "apaCitation": "Baker, LD. (2010, March). <a href=\"https://scholars.duke.edu/individual/pub718390\">The cult of Franz Boas and his \"conspiracy\" to destroy the white race.</a> <em>Proc Am Philos Soc</em>, <em>154</em>(1), 8-18.",
+      "year": "2010-03-01T00:00:00",
+      "endPage": "18",
+      "publicationSource": "pubmed",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub718390\">\"The cult of Franz Boas and his \"conspiracy\" to destroy the white race.\"</a> <em>Proc Am Philos Soc</em> 154, no. 1 (March 2010): 8-18.",
+      "issue": "1",
+      "publicationVenue": "https://scholars.duke.edu/individual/jou0003-049X",
+      "publishedIn": "Proceedings of the American Philosophical Society",
+      "startPage": "8",
+      "authorship": "https://scholars.duke.edu/individual/author718390-8194252",
+      "volume": "154"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013043",
+    "vivoType": "http://purl.org/ontology/bibo/Book",
+    "label": "Anthropology and the Racial Politics of Culture",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013043\">Anthropology and the Racial Politics of Culture.</a> Duke University Press; 2010.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013043\"><em>Anthropology and the Racial Politics of Culture.</em></a> Duke University Press, 2010.",
+      "isFavorite": "true",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2010",
+      "apaCitation": "Baker, LD. (2010). <a href=\"https://scholars.duke.edu/individual/pub1013043\"><em>Anthropology and the Racial Politics of Culture.</em></a> Duke University Press.",
+      "year": "2010-01-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013043\"><em>Anthropology and the Racial Politics of Culture.</em></a> Duke University Press, 2010.",
+      "publisher": "https://scholars.duke.edu/individual/publisherdukeuniversitypress",
+      "publishedBy": "Duke University Press",
+      "authorship": "https://scholars.duke.edu/individual/author1013043-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub724637",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Notes on “Post-Racial” Society",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub724637\">Notes on “Post-Racial” Society.</a> North American Dialogue. 2010;13(2):1-5.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub724637\">\"Notes on “Post-Racial” Society.\"</a> <em>North American Dialogue</em> 13.2 (2010): 1-5.",
+      "isFavorite": "true",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2010",
+      "apaCitation": "Baker, LD. (2010). <a href=\"https://scholars.duke.edu/individual/pub724637\">Notes on “Post-Racial” Society.</a> <em>North American Dialogue</em>, <em>13</em>(2), 1-5.",
+      "year": "2010-01-01T00:00:00",
+      "endPage": "5",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub724637\">\"Notes on “Post-Racial” Society.\"</a> <em>North American Dialogue</em> 13, no. 2 (2010): 1-5.",
+      "issue": "2",
+      "publisher": "https://scholars.duke.edu/individual/publishernewsletterofthesocietyfortheanthropologyofnorthamerica",
+      "publishedIn": "North American Dialogue",
+      "startPage": "1",
+      "publishedBy": "Newsletter of the Society for the Anthropology of North America",
+      "authorship": "https://scholars.duke.edu/individual/author724637-8194252",
+      "volume": "13"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1001744",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Racism, risk, and the new color of dirty jobs",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1001744\">Racism, risk, and the new color of dirty jobs.</a> 2009. p. 140-159.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1001744\">\"Racism, risk, and the new color of dirty jobs.\"</a> 2009. 140-159.",
+      "isFavorite": "true",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2009",
+      "apaCitation": "Baker, LD. (2009). <a href=\"https://scholars.duke.edu/individual/pub1001744\">Racism, risk, and the new color of dirty jobs.</a> (pp. 140-159).",
+      "year": "2009-01-01T00:00:00",
+      "endPage": "159",
+      "publicationSource": "scopus",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1001744\">\"Racism, risk, and the new color of dirty jobs.\"</a> 140-159. 2009.",
+      "startPage": "140",
+      "authorship": "https://scholars.duke.edu/individual/author1001744-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1003498",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Saggin' and Braggin'",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1003498\">Saggin' and Braggin'.</a> 2009. p. 46-59.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1003498\">\"Saggin' and Braggin'.\"</a> 2009. 46-59.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2009",
+      "apaCitation": "Baker, LD. (2009). <a href=\"https://scholars.duke.edu/individual/pub1003498\">Saggin' and Braggin'.</a> (pp. 46-59).",
+      "year": "2009-01-01T00:00:00",
+      "endPage": "59",
+      "publicationSource": "scopus",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1003498\">\"Saggin' and Braggin'.\"</a> 46-59. 2009.",
+      "startPage": "46",
+      "authorship": "https://scholars.duke.edu/individual/author1003498-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013060",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Herskovits and the Heart of Blackness (Consultant)",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013060\">Herskovits and the Heart of Blackness (Consultant).</a> 2009.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013060\">\"Herskovits and the Heart of Blackness (Consultant).\"</a> (2009).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2009",
+      "apaCitation": "Baker, LD. (2009). <a href=\"https://scholars.duke.edu/individual/pub1013060\">Herskovits and the Heart of Blackness (Consultant).</a>",
+      "year": "2009-01-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013060\">\"Herskovits and the Heart of Blackness (Consultant).\"</a> (2009).",
+      "publisher": "https://scholars.duke.edu/individual/publishercalifornianewsreel",
+      "publishedBy": "California Newsreel",
+      "authorship": "https://scholars.duke.edu/individual/author1013060-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1020036",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "The Location of Franz Boas within the African-American Struggle [reprint]",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1020036\">The Location of Franz Boas within the African-American Struggle [reprint].</a> In: Franz Boas: Kultur, Sprache, Rasse. Wien, LIT Verlag.; 2009. p. 111-129.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020036\">\"The Location of Franz Boas within the African-American Struggle [reprint].\"</a> <em>Franz Boas: Kultur, Sprache, Rasse.</em> Wien, LIT Verlag., 2009. 111-129.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2009",
+      "abstract": "2009 The Location of Franz Boas within the African-American Struggle. In Franz Boas: Kultur, Sprache, Rasse. Friedrich Pöhl & Bernhard Tilg, eds. Pp. 111-129. Wege einer antirassistischen Anthropologie, Wien, LIT Verlag.",
+      "apaCitation": "Baker, LD. (2009). <a href=\"https://scholars.duke.edu/individual/pub1020036\">The Location of Franz Boas within the African-American Struggle [reprint].</a> In <em>Franz Boas: Kultur, Sprache, Rasse</em> (pp. 111-129). Wien, LIT Verlag..",
+      "year": "2009-01-01T00:00:00",
+      "endPage": "129",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020036\">\"The Location of Franz Boas within the African-American Struggle [reprint].\"</a> In <em>Franz Boas: Kultur, Sprache, Rasse</em>, 111-129. Wien, LIT Verlag., 2009.",
+      "publisher": "https://scholars.duke.edu/individual/publisherwienlitverlag",
+      "parentBookTitle": "Franz Boas: Kultur, Sprache, Rasse.",
+      "startPage": "111",
+      "publishedBy": "Wien, LIT Verlag.",
+      "authorship": "https://scholars.duke.edu/individual/author1020036-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013066",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Review of The Social Sciences and Theories of Race by Vernon J. Williams, Jr.",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013066\">Review of The Social Sciences and Theories of Race by Vernon J. Williams, Jr.</a> Journal of the Royal Anthropological Institute. 2008;14:234-235. (Review)",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013066\">\"Review of The Social Sciences and Theories of Race by Vernon J. Williams, Jr.\"</a> <em>Journal of the Royal Anthropological Institute</em> 14 (2008): 234-235. (Review)",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2008",
+      "apaCitation": "Baker, LD. (2008). <a href=\"https://scholars.duke.edu/individual/pub1013066\">Review of The Social Sciences and Theories of Race by Vernon J. Williams, Jr.</a> <em>Journal of the Royal Anthropological Institute</em>, <em>14</em>, 234-235. (Review)",
+      "year": "2008-01-01T00:00:00",
+      "endPage": "235",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013066\">\"Review of The Social Sciences and Theories of Race by Vernon J. Williams, Jr.\"</a> <em>Journal of the Royal Anthropological Institute</em> 14 (2008): 234-235. (Review)",
+      "subtypes": "Review",
+      "publishedIn": "Journal of the Royal Anthropological Institute",
+      "startPage": "234",
+      "authorship": "https://scholars.duke.edu/individual/author1013066-8194252",
+      "volume": "14"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1020034",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Boas, Franz",
+    "attributes": {
+      "icmjeCitation": "Baker L. <a href=\"https://scholars.duke.edu/individual/pub1020034\">Boas, Franz.</a> In: International Encyclopedia of the Social Sciences. Detroit: Macmillan Reference USA; 2008. p. 344-346.",
+      "mlaCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1020034\">\"Boas, Franz.\"</a> <em>International Encyclopedia of the Social Sciences.</em> Detroit: Macmillan Reference USA, 2008. 344-346.",
+      "isFavorite": "false",
+      "authorList": "Baker, L",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2008",
+      "apaCitation": "Baker, L. (2008). <a href=\"https://scholars.duke.edu/individual/pub1020034\">Boas, Franz.</a> In <em>International Encyclopedia of the Social Sciences</em> (pp. 344-346). Detroit: Macmillan Reference USA.",
+      "year": "2008-01-01T00:00:00",
+      "endPage": "346",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1020034\">\"Boas, Franz.\"</a> In <em>International Encyclopedia of the Social Sciences</em>, 344-346. Detroit: Macmillan Reference USA, 2008.",
+      "publisher": "https://scholars.duke.edu/individual/publisherdetroitmacmillanreferenceusa",
+      "parentBookTitle": "International Encyclopedia of the Social Sciences",
+      "startPage": "344",
+      "publishedBy": "Detroit: Macmillan Reference USA",
+      "authorship": "https://scholars.duke.edu/individual/author1020034-8194252",
+      "volume": "1"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1020035",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "\"Anthropology, History of.\"",
+    "attributes": {
+      "icmjeCitation": "Baker L. <a href=\"https://scholars.duke.edu/individual/pub1020035\">\"Anthropology, History of.\".</a> In: Encyclopedia of Race and Racism. Macmillan Reference USA,; 2008. p. 93-97.",
+      "mlaCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1020035\">\"\"Anthropology, History of.\".\"</a> <em>Encyclopedia of Race and Racism.</em> Macmillan Reference USA, 2008. 93-97.",
+      "isFavorite": "false",
+      "authorList": "Baker, L",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2008",
+      "apaCitation": "Baker, L. (2008). <a href=\"https://scholars.duke.edu/individual/pub1020035\">\"Anthropology, History of.\".</a> In <em>Encyclopedia of Race and Racism</em> (pp. 93-97). Macmillan Reference USA,.",
+      "year": "2008-01-01T00:00:00",
+      "endPage": "97",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1020035\">\"\"Anthropology, History of.\".\"</a> In <em>Encyclopedia of Race and Racism</em>, 93-97. Macmillan Reference USA, 2008.",
+      "publisher": "https://scholars.duke.edu/individual/publishermacmillanreferenceusa",
+      "parentBookTitle": "Encyclopedia of Race and Racism",
+      "startPage": "93",
+      "publishedBy": "Macmillan Reference USA,",
+      "authorship": "https://scholars.duke.edu/individual/author1020035-8194252",
+      "volume": "1"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1020039",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Speaking of Anthropological Theory",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1020039\">Speaking of Anthropological Theory.</a> In: A History of Anthropological Theory. Broadview Press.; 2008.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020039\">\"Speaking of Anthropological Theory.\"</a> <em>A History of Anthropological Theory.</em> Broadview Press., 2008.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2008",
+      "apaCitation": "Baker, LD. (2008). <a href=\"https://scholars.duke.edu/individual/pub1020039\">Speaking of Anthropological Theory.</a> In <em>A History of Anthropological Theory</em> Broadview Press..",
+      "year": "2008-01-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020039\">\"Speaking of Anthropological Theory.\"</a> In <em>A History of Anthropological Theory</em>. Broadview Press., 2008.",
+      "publisher": "https://scholars.duke.edu/individual/publisherbroadviewpress",
+      "parentBookTitle": "A History of Anthropological Theory",
+      "publishedBy": "Broadview Press",
+      "authorship": "https://scholars.duke.edu/individual/author1020039-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1020039",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Speaking of Anthropological Theory",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1020039\">Speaking of Anthropological Theory.</a> In: A History of Anthropological Theory. Broadview Press.; 2008.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020039\">\"Speaking of Anthropological Theory.\"</a> <em>A History of Anthropological Theory.</em> Broadview Press., 2008.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2008",
+      "apaCitation": "Baker, LD. (2008). <a href=\"https://scholars.duke.edu/individual/pub1020039\">Speaking of Anthropological Theory.</a> In <em>A History of Anthropological Theory</em> Broadview Press..",
+      "year": "2008-01-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020039\">\"Speaking of Anthropological Theory.\"</a> In <em>A History of Anthropological Theory</em>. Broadview Press., 2008.",
+      "publisher": "https://scholars.duke.edu/individual/publisherbroadviewpress",
+      "parentBookTitle": "A History of Anthropological Theory",
+      "publishedBy": "Broadview Press.",
+      "authorship": "https://scholars.duke.edu/individual/author1020039-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub705116",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Black Women in the Ivory Tower, Womanism, and Segregated Scholars",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub705116\">Black Women in the Ivory Tower, Womanism, and Segregated Scholars.</a> Souls: A Critical Journal of Black Politics, Culture, and Soceity. 2008;10(2):179-187.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub705116\">\"Black Women in the Ivory Tower, Womanism, and Segregated Scholars.\"</a> <em>Souls: A Critical Journal of Black Politics, Culture, and Soceity</em> 10.2 (2008): 179-187.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2008",
+      "apaCitation": "Baker, LD. (2008). <a href=\"https://scholars.duke.edu/individual/pub705116\">Black Women in the Ivory Tower, Womanism, and Segregated Scholars.</a> <em>Souls: A Critical Journal of Black Politics, Culture, and Soceity</em>, <em>10</em>(2), 179-187.",
+      "year": "2008-01-01T00:00:00",
+      "endPage": "187",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub705116\">\"Black Women in the Ivory Tower, Womanism, and Segregated Scholars.\"</a> <em>Souls: A Critical Journal of Black Politics, Culture, and Soceity</em> 10, no. 2 (2008): 179-187.",
+      "issue": "2",
+      "publishedIn": "Souls: A Critical Journal of Black Politics, Culture, and Soceity",
+      "startPage": "179",
+      "authorship": "https://scholars.duke.edu/individual/author705116-8194252",
+      "volume": "10"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub705117",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Mission Improbable and the Possible Mission",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub705117\">Mission Improbable and the Possible Mission.</a> Anthropology News. 2008;49(2):7-8.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub705117\">\"Mission Improbable and the Possible Mission.\"</a> <em>Anthropology News</em> 49.2 (2008): 7-8.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2008",
+      "apaCitation": "Baker, LD. (2008). <a href=\"https://scholars.duke.edu/individual/pub705117\">Mission Improbable and the Possible Mission.</a> <em>Anthropology News</em>, <em>49</em>(2), 7-8.",
+      "year": "2008-01-01T00:00:00",
+      "endPage": "8",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub705117\">\"Mission Improbable and the Possible Mission.\"</a> <em>Anthropology News</em> 49, no. 2 (2008): 7-8.",
+      "issue": "2",
+      "publishedIn": "Anthropology News",
+      "startPage": "7",
+      "authorship": "https://scholars.duke.edu/individual/author705117-8194252",
+      "volume": "49"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013090",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Transforming Anthropology",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013090\">Transforming Anthropology.</a> 2007 Oct;15.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013090\">\"Transforming Anthropology.\"</a> 15 (October 2007).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200710",
+      "apaCitation": "Baker, LD. (2007, October). <a href=\"https://scholars.duke.edu/individual/pub1013090\">Transforming Anthropology.</a> <em>15</em>.",
+      "year": "2007-10-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013090\">\"Transforming Anthropology.\"</a> 15 (October 2007).",
+      "authorship": "https://scholars.duke.edu/individual/author1013090-8194252",
+      "volume": "15"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013091",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Transforming Anthropology",
+    "attributes": {
+      "icmjeCitation": "Baker L. <a href=\"https://scholars.duke.edu/individual/pub1013091\">Transforming Anthropology.</a> 2007 Apr;15.",
+      "mlaCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1013091\">\"Transforming Anthropology.\"</a> 15 (April 2007).",
+      "isFavorite": "false",
+      "authorList": "Baker, L",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200704",
+      "apaCitation": "Baker, L. (2007, April). <a href=\"https://scholars.duke.edu/individual/pub1013091\">Transforming Anthropology.</a> <em>15</em>.",
+      "year": "2007-04-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1013091\">\"Transforming Anthropology.\"</a> 15 (April 2007).",
+      "authorship": "https://scholars.duke.edu/individual/author1013091-8194252",
+      "volume": "15"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013052",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Signing Off",
+    "attributes": {
+      "icmjeCitation": "Baker L. <a href=\"https://scholars.duke.edu/individual/pub1013052\">Signing Off.</a> 2007. p. 95-96.",
+      "mlaCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1013052\">\"Signing Off.\"</a> 2007. 95-96.",
+      "isFavorite": "false",
+      "authorList": "Baker, L",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2007",
+      "apaCitation": "Baker, L. (2007). <a href=\"https://scholars.duke.edu/individual/pub1013052\">Signing Off.</a> (pp. 95-96).",
+      "year": "2007-01-01T00:00:00",
+      "endPage": "96",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1013052\">\"Signing Off.\"</a> 95-96. 2007.",
+      "startPage": "95",
+      "authorship": "https://scholars.duke.edu/individual/author1013052-8194252",
+      "volume": "15"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013061",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "W.G. Pearson’s Uniforms about Distinction",
+    "attributes": {
+      "icmjeCitation": "Baker L. <a href=\"https://scholars.duke.edu/individual/pub1013061\">W.G. Pearson’s Uniforms about Distinction.</a> Durham Herald Sun. 2007;Nov:A22-A22.",
+      "mlaCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1013061\">\"W.G. Pearson’s Uniforms about Distinction.\"</a> <em>Durham Herald Sun</em> Nov (2007): A22-A22.",
+      "isFavorite": "false",
+      "authorList": "Baker, L",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2007",
+      "apaCitation": "Baker, L. (2007). <a href=\"https://scholars.duke.edu/individual/pub1013061\">W.G. Pearson’s Uniforms about Distinction.</a> <em>Durham Herald Sun</em>, <em>Nov</em>, A22-A22.",
+      "year": "2007-01-01T00:00:00",
+      "endPage": "A22",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, L. <a href=\"https://scholars.duke.edu/individual/pub1013061\">\"W.G. Pearson’s Uniforms about Distinction.\"</a> <em>Durham Herald Sun</em> Nov (2007): A22-A22.",
+      "publishedIn": "Durham Herald Sun",
+      "startPage": "A22",
+      "authorship": "https://scholars.duke.edu/individual/author1013061-8194252",
+      "volume": "Nov"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013092",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Transforming Anthropology",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013092\">Transforming Anthropology.</a> 2006 Oct;14.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013092\">\"Transforming Anthropology.\"</a> 14 (October 2006).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200610",
+      "apaCitation": "Baker, LD. (2006, October). <a href=\"https://scholars.duke.edu/individual/pub1013092\">Transforming Anthropology.</a> <em>14</em>.",
+      "year": "2006-10-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013092\">\"Transforming Anthropology.\"</a> 14 (October 2006).",
+      "authorship": "https://scholars.duke.edu/individual/author1013092-8194252",
+      "volume": "14"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub697493",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Mad or Meditative in Maricopa",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub697493\">Mad or Meditative in Maricopa.</a> Transforming Anthropology. 2006 Oct;14(2):129-131.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub697493\">\"Mad or Meditative in Maricopa.\"</a> <em>Transforming Anthropology</em> 14.2 (October 2006): 129-131.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200610",
+      "apaCitation": "Baker, LD. (2006, October). <a href=\"https://scholars.duke.edu/individual/pub697493\">Mad or Meditative in Maricopa.</a> <em>Transforming Anthropology</em>, <em>14</em>(2), 129-131.",
+      "year": "2006-10-01T00:00:00",
+      "endPage": "131",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub697493\">\"Mad or Meditative in Maricopa.\"</a> <em>Transforming Anthropology</em> 14, no. 2 (October 2006): 129-131.",
+      "issue": "2",
+      "publishedIn": "Transforming Anthropology",
+      "startPage": "129",
+      "authorship": "https://scholars.duke.edu/individual/author697493-8194252",
+      "volume": "14"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013062",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "2006 Defining Crime, The State of Things, WUNC National Public Radio July 29",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013062\">2006 Defining Crime, The State of Things, WUNC National Public Radio July 29.</a> 2006 Jul.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013062\">\"2006 Defining Crime, The State of Things, WUNC National Public Radio July 29.\"</a> (July 2006).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200607",
+      "apaCitation": "Baker, LD. (2006, July). <a href=\"https://scholars.duke.edu/individual/pub1013062\">2006 Defining Crime, The State of Things, WUNC National Public Radio July 29.</a>",
+      "year": "2006-07-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013062\">\"2006 Defining Crime, The State of Things, WUNC National Public Radio July 29.\"</a> (July 2006).",
+      "authorship": "https://scholars.duke.edu/individual/author1013062-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013063",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Hate Crime, Plain and Simple",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013063\">Hate Crime, Plain and Simple.</a> Durham Herald Sun. 2006 Jun:A6-A6.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013063\">\"Hate Crime, Plain and Simple.\"</a> <em>Durham Herald Sun</em> (June 2006): A6-A6.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200606",
+      "apaCitation": "Baker, LD. (2006, June). <a href=\"https://scholars.duke.edu/individual/pub1013063\">Hate Crime, Plain and Simple.</a> <em>Durham Herald Sun</em>, A6-A6.",
+      "year": "2006-06-01T00:00:00",
+      "endPage": "A6",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013063\">\"Hate Crime, Plain and Simple.\"</a> <em>Durham Herald Sun</em> (June 2006): A6-A6.",
+      "publishedIn": "Durham Herald Sun",
+      "startPage": "A6",
+      "authorship": "https://scholars.duke.edu/individual/author1013063-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013064",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "2006 Black Faculty at Duke, The State of Things, WUNC National Public Radio June 15",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013064\">2006 Black Faculty at Duke, The State of Things, WUNC National Public Radio June 15.</a> 2006 Jun.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013064\">\"2006 Black Faculty at Duke, The State of Things, WUNC National Public Radio June 15.\"</a> (June 2006).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200606",
+      "apaCitation": "Baker, LD. (2006, June). <a href=\"https://scholars.duke.edu/individual/pub1013064\">2006 Black Faculty at Duke, The State of Things, WUNC National Public Radio June 15.</a>",
+      "year": "2006-06-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013064\">\"2006 Black Faculty at Duke, The State of Things, WUNC National Public Radio June 15.\"</a> (June 2006).",
+      "authorship": "https://scholars.duke.edu/individual/author1013064-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013093",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Transforming Anthropology",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013093\">Transforming Anthropology.</a> 2006 Apr;14.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013093\">\"Transforming Anthropology.\"</a> 14 (April 2006).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200604",
+      "apaCitation": "Baker, LD. (2006, April). <a href=\"https://scholars.duke.edu/individual/pub1013093\">Transforming Anthropology.</a> <em>14</em>.",
+      "year": "2006-04-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013093\">\"Transforming Anthropology.\"</a> 14 (April 2006).",
+      "authorship": "https://scholars.duke.edu/individual/author1013093-8194252",
+      "volume": "14"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub697495",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Thinking Through Genre",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub697495\">Thinking Through Genre.</a> Transforming Anthropology. 2006 Apr;14(1):1-.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub697495\">\"Thinking Through Genre.\"</a> <em>Transforming Anthropology</em> 14.1 (April 2006): 1-.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200604",
+      "apaCitation": "Baker, LD. (2006, April). <a href=\"https://scholars.duke.edu/individual/pub697495\">Thinking Through Genre.</a> <em>Transforming Anthropology</em>, <em>14</em>(1), 1-.",
+      "year": "2006-04-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub697495\">\"Thinking Through Genre.\"</a> <em>Transforming Anthropology</em> 14, no. 1 (April 2006): 1-.",
+      "issue": "1",
+      "publishedIn": "Transforming Anthropology",
+      "startPage": "1",
+      "authorship": "https://scholars.duke.edu/individual/author697495-8194252",
+      "volume": "14"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1020040",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Missionary Positions.",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1020040\">Missionary Positions.</a> In: Globalization and RaceTransformations in the Cultural Production of Blackness. Duke University Press; 2006. p. Pp. 37-54.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020040\">\"Missionary Positions.\"</a> <em>Globalization and RaceTransformations in the Cultural Production of Blackness.</em> Duke University Press, 2006. Pp. 37-54.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2006",
+      "apaCitation": "Baker, LD. (2006). <a href=\"https://scholars.duke.edu/individual/pub1020040\">Missionary Positions.</a> In <em>Globalization and RaceTransformations in the Cultural Production of Blackness</em> (pp. Pp. 37-54.). Duke University Press.",
+      "year": "2006-01-01T00:00:00",
+      "endPage": "54.",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020040\">\"Missionary Positions.\"</a> In <em>Globalization and RaceTransformations in the Cultural Production of Blackness</em>, Pp. 37-54. Duke University Press, 2006.",
+      "publisher": "https://scholars.duke.edu/individual/publisherdukeuniversitypress",
+      "parentBookTitle": "Globalization and RaceTransformations in the Cultural Production of Blackness.",
+      "startPage": "Pp. 37",
+      "publishedBy": "Duke University Press",
+      "authorship": "https://scholars.duke.edu/individual/author1020040-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013094",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Transforming Anthroplogy",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013094\">Transforming Anthroplogy.</a> 2005 Oct;13.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013094\">\"Transforming Anthroplogy.\"</a> 13 (October 2005).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200510",
+      "apaCitation": "Baker, LD. (2005, October). <a href=\"https://scholars.duke.edu/individual/pub1013094\">Transforming Anthroplogy.</a> <em>13</em>.",
+      "year": "2005-10-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013094\">\"Transforming Anthroplogy.\"</a> 13 (October 2005).",
+      "authorship": "https://scholars.duke.edu/individual/author1013094-8194252",
+      "volume": "13"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013065",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "The Real Massacre ain’t 50s",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013065\">The Real Massacre ain’t 50s.</a> Pop and Politics. 2005 Apr.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013065\">\"The Real Massacre ain’t 50s.\"</a> <em>Pop and Politics</em> (April 2005).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200504",
+      "apaCitation": "Baker, LD. (2005, April). <a href=\"https://scholars.duke.edu/individual/pub1013065\">The Real Massacre ain’t 50s.</a> <em>Pop and Politics</em>.",
+      "year": "2005-04-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013065\">\"The Real Massacre ain’t 50s.\"</a> <em>Pop and Politics</em> (April 2005).",
+      "publishedIn": "Pop and Politics",
+      "authorship": "https://scholars.duke.edu/individual/author1013065-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013095",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#OtherArticle",
+    "label": "Transforming Anthroplogy",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013095\">Transforming Anthroplogy.</a> 2005 Apr;13.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013095\">\"Transforming Anthroplogy.\"</a> 13 (April 2005).",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200504",
+      "apaCitation": "Baker, LD. (2005, April). <a href=\"https://scholars.duke.edu/individual/pub1013095\">Transforming Anthroplogy.</a> <em>13</em>.",
+      "year": "2005-04-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013095\">\"Transforming Anthroplogy.\"</a> 13 (April 2005).",
+      "authorship": "https://scholars.duke.edu/individual/author1013095-8194252",
+      "volume": "13"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013067",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Review of Melville J. Herskovits and the Racial Politics of Knowledge by Jerry Gershenhorn.",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013067\">Review of Melville J. Herskovits and the Racial Politics of Knowledge by Jerry Gershenhorn.</a> American Anthropologist. 2005;107:524-525. (Review)",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013067\">\"Review of Melville J. Herskovits and the Racial Politics of Knowledge by Jerry Gershenhorn.\"</a> <em>American Anthropologist</em> 107 (2005): 524-525. (Review)",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2005",
+      "apaCitation": "Baker, LD. (2005). <a href=\"https://scholars.duke.edu/individual/pub1013067\">Review of Melville J. Herskovits and the Racial Politics of Knowledge by Jerry Gershenhorn.</a> <em>American Anthropologist</em>, <em>107</em>, 524-525. (Review)",
+      "year": "2005-01-01T00:00:00",
+      "endPage": "525",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013067\">\"Review of Melville J. Herskovits and the Racial Politics of Knowledge by Jerry Gershenhorn.\"</a> <em>American Anthropologist</em> 107 (2005): 524-525. (Review)",
+      "subtypes": "Review",
+      "publishedIn": "American Anthropologist",
+      "startPage": "524",
+      "authorship": "https://scholars.duke.edu/individual/author1013067-8194252",
+      "volume": "107"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub663752",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "2005 Taking the Plunge and Seizing the Time- -Again",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub663752\">2005 Taking the Plunge and Seizing the Time- -Again.</a> Transforming Anthropology. 2005;13:75-78.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub663752\">\"2005 Taking the Plunge and Seizing the Time- -Again.\"</a> <em>Transforming Anthropology</em> 13 (2005): 75-78.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2005",
+      "apaCitation": "Baker, LD. (2005). <a href=\"https://scholars.duke.edu/individual/pub663752\">2005 Taking the Plunge and Seizing the Time- -Again.</a> <em>Transforming Anthropology</em>, <em>13</em>, 75-78.",
+      "year": "2005-01-01T00:00:00",
+      "endPage": "78",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub663752\">\"2005 Taking the Plunge and Seizing the Time- -Again.\"</a> <em>Transforming Anthropology</em> 13 (2005): 75-78.",
+      "publishedIn": "Transforming Anthropology",
+      "startPage": "75",
+      "authorship": "https://scholars.duke.edu/individual/author663752-8194252",
+      "volume": "13"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub663753",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "2005 Naming Moments Properly.",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub663753\">2005 Naming Moments Properly.</a> Transforming Anthropology. 2005;13:1-2.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub663753\">\"2005 Naming Moments Properly.\"</a> <em>Transforming Anthropology</em> 13 (2005): 1-2.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2005",
+      "apaCitation": "Baker, LD. (2005). <a href=\"https://scholars.duke.edu/individual/pub663753\">2005 Naming Moments Properly.</a> <em>Transforming Anthropology</em>, <em>13</em>, 1-2.",
+      "year": "2005-01-01T00:00:00",
+      "endPage": "2",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub663753\">\"2005 Naming Moments Properly.\"</a> <em>Transforming Anthropology</em> 13 (2005): 1-2.",
+      "publishedIn": "Transforming Anthropology",
+      "startPage": "1",
+      "authorship": "https://scholars.duke.edu/individual/author663753-8194252",
+      "volume": "13"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub656760",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Rethinking Black Studies: You Can't Do That With Out Organization",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub656760\">Rethinking Black Studies: You Can't Do That With Out Organization.</a> Souls A Critical Journal of Black Politics, Culture, and Society. 2004 Nov;6((3/4)):36-40.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub656760\">\"Rethinking Black Studies: You Can't Do That With Out Organization.\"</a> <em>Souls A Critical Journal of Black Politics, Culture, and Society</em> 6.(3/4) (November 2004): 36-40.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200411",
+      "apaCitation": "Baker, LD. (2004, November). <a href=\"https://scholars.duke.edu/individual/pub656760\">Rethinking Black Studies: You Can't Do That With Out Organization.</a> <em>Souls A Critical Journal of Black Politics, Culture, and Society</em>, <em>6</em>((3/4)), 36-40.",
+      "year": "2004-11-01T00:00:00",
+      "endPage": "40",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub656760\">\"Rethinking Black Studies: You Can't Do That With Out Organization.\"</a> <em>Souls A Critical Journal of Black Politics, Culture, and Society</em> 6, no. (3/4) (November 2004): 36-40.",
+      "issue": "(3/4)",
+      "publishedIn": "Souls A Critical Journal of Black Politics, Culture, and Society",
+      "startPage": "36",
+      "authorship": "https://scholars.duke.edu/individual/author656760-8194252",
+      "volume": "6"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub649664",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "A model approach for studying race: Provocative theory, sound science, and very good history",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub649664\">A model approach for studying race: Provocative theory, sound science, and very good history.</a> AMERICAN ANTHROPOLOGIST. 2004 Mar;106(1):168-172.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub649664\">\"A model approach for studying race: Provocative theory, sound science, and very good history.\"</a> <em>AMERICAN ANTHROPOLOGIST</em> 106.1 (March 2004): 168-172.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200403",
+      "apaCitation": "Baker, LD. (2004, March). <a href=\"https://scholars.duke.edu/individual/pub649664\">A model approach for studying race: Provocative theory, sound science, and very good history.</a> <em>AMERICAN ANTHROPOLOGIST</em>, <em>106</em>(1), 168-172.",
+      "year": "2004-03-01T00:00:00",
+      "endPage": "172",
+      "publicationSource": "wos-lite",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub649664\">\"A model approach for studying race: Provocative theory, sound science, and very good history.\"</a> <em>AMERICAN ANTHROPOLOGIST</em> 106, no. 1 (March 2004): 168-172.",
+      "issue": "1",
+      "publicationVenue": "https://scholars.duke.edu/individual/jou0002-7294",
+      "publishedIn": "American Anthropologist",
+      "startPage": "168",
+      "doi": "10.1525/aa.2004.106.1.168",
+      "authorship": "https://scholars.duke.edu/individual/author649664-8194252",
+      "volume": "106"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013044",
+    "vivoType": "http://purl.org/ontology/bibo/Book",
+    "label": "Life in America: Identity and Everyday Experience",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013044\">Life in America: Identity and Everyday Experience.</a> Blackwell Publishing; 2004.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013044\"><em>Life in America: Identity and Everyday Experience.</em></a> Blackwell Publishing, 2004.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2004",
+      "abstract": "Life in America: Identity and Everyday Experience is a fascinating collection of readings that explores how people negotiate identity in the United States today. Brings together readings that provide a thoroughly engaging and fascinating look at central issues of identity and what it means to be American. Explores the tension between identity and identification to help readers begin to understand how people creatively confront the perks and perils of identity in the United States. Offers a look at a wide range of subjects including: violence and video games, queer pilgrimages to San Francisco, Filipina critiques of \"sleeping around,\" and the significance of \"lowriders\" in Hispano/Chicano culture.",
+      "apaCitation": "Baker, LD. (2004). <a href=\"https://scholars.duke.edu/individual/pub1013044\"><em>Life in America: Identity and Everyday Experience.</em></a> Blackwell Publishing.",
+      "year": "2004-01-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013044\"><em>Life in America: Identity and Everyday Experience.</em></a> Blackwell Publishing, 2004.",
+      "publisher": "https://scholars.duke.edu/individual/publisherblackwellpublishing",
+      "publishedBy": "Blackwell Publishing",
+      "authorship": "https://scholars.duke.edu/individual/author1013044-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub649795",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Franz Boas out of the Ivory Tower",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub649795\">Franz Boas out of the Ivory Tower.</a> Anthropological Theory. 2004;4(1):29-51.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub649795\">\"Franz Boas out of the Ivory Tower.\"</a> <em>Anthropological Theory</em> 4.1 (2004): 29-51.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2004",
+      "apaCitation": "Baker, LD. (2004). <a href=\"https://scholars.duke.edu/individual/pub649795\">Franz Boas out of the Ivory Tower.</a> <em>Anthropological Theory</em>, <em>4</em>(1), 29-51.",
+      "year": "2004-01-01T00:00:00",
+      "endPage": "51",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub649795\">\"Franz Boas out of the Ivory Tower.\"</a> <em>Anthropological Theory</em> 4, no. 1 (2004): 29-51.",
+      "issue": "1",
+      "publishedIn": "Anthropological Theory",
+      "startPage": "29",
+      "authorship": "https://scholars.duke.edu/individual/author649795-8194252",
+      "volume": "4"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013072",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Review of Delimiting Anthropology: Occasional Inquiries and Reflections. George W. Stocking, Jr.",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013072\">Review of Delimiting Anthropology: Occasional Inquiries and Reflections. George W. Stocking, Jr.</a> Journal of Anthropological Research. 2003;59:252-253. (Review)",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013072\">\"Review of Delimiting Anthropology: Occasional Inquiries and Reflections. George W. Stocking, Jr.\"</a> <em>Journal of Anthropological Research</em> 59 (2003): 252-253. (Review)",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2003",
+      "abstract": "2003 Review of Delimiting Anthropology: Occasional Inquiries and Reflections. George W. Stocking, Jr. Journal of Anthropological Research 59:252-253.",
+      "apaCitation": "Baker, LD. (2003). <a href=\"https://scholars.duke.edu/individual/pub1013072\">Review of Delimiting Anthropology: Occasional Inquiries and Reflections. George W. Stocking, Jr.</a> <em>Journal of Anthropological Research</em>, <em>59</em>, 252-253. (Review)",
+      "year": "2003-01-01T00:00:00",
+      "endPage": "253",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013072\">\"Review of Delimiting Anthropology: Occasional Inquiries and Reflections. George W. Stocking, Jr.\"</a> <em>Journal of Anthropological Research</em> 59 (2003): 252-253. (Review)",
+      "subtypes": "Review",
+      "publishedIn": "Journal of Anthropological Research",
+      "startPage": "252",
+      "authorship": "https://scholars.duke.edu/individual/author1013072-8194252",
+      "volume": "59"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1020041",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Frederic Ward Putnam",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1020041\">Frederic Ward Putnam.</a> In: Celebrating a Century of the American Anthropological Assocaition: Presidential Portraits. Lincoln: University of Nebraska Press; 2002. p. 5-9.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020041\">\"Frederic Ward Putnam.\"</a> <em>Celebrating a Century of the American Anthropological Assocaition: Presidential Portraits.</em> Lincoln: University of Nebraska Press, 2002. 5-9.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2002",
+      "apaCitation": "Baker, LD. (2002). <a href=\"https://scholars.duke.edu/individual/pub1020041\">Frederic Ward Putnam.</a> In <em>Celebrating a Century of the American Anthropological Assocaition: Presidential Portraits</em> (pp. 5-9). Lincoln: University of Nebraska Press.",
+      "year": "2002-01-01T00:00:00",
+      "endPage": "9",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020041\">\"Frederic Ward Putnam.\"</a> In <em>Celebrating a Century of the American Anthropological Assocaition: Presidential Portraits</em>, 5-9. Lincoln: University of Nebraska Press, 2002.",
+      "publisher": "https://scholars.duke.edu/individual/publisherlincolnuniversityofnebraskapress",
+      "parentBookTitle": "Celebrating a Century of the American Anthropological Assocaition: Presidential Portraits",
+      "startPage": "5",
+      "publishedBy": "Lincoln: University of Nebraska Press",
+      "authorship": "https://scholars.duke.edu/individual/author1020041-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub644183",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Research, Reform, and Racial Uplift: The Mission of the Hampton Folklore Society 1893-1899",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub644183\">Research, Reform, and Racial Uplift: The Mission of the Hampton Folklore Society 1893-1899.</a> History of Anthropology. 2002;9:42-80.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644183\">\"Research, Reform, and Racial Uplift: The Mission of the Hampton Folklore Society 1893-1899.\"</a> <em>History of Anthropology</em> 9 (2002): 42-80.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2002",
+      "apaCitation": "Baker, LD. (2002). <a href=\"https://scholars.duke.edu/individual/pub644183\">Research, Reform, and Racial Uplift: The Mission of the Hampton Folklore Society 1893-1899.</a> <em>History of Anthropology</em>, <em>9</em>, 42-80.",
+      "year": "2002-01-01T00:00:00",
+      "endPage": "80",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644183\">\"Research, Reform, and Racial Uplift: The Mission of the Hampton Folklore Society 1893-1899.\"</a> <em>History of Anthropology</em> 9 (2002): 42-80.",
+      "publisher": "https://scholars.duke.edu/individual/publisheruniversityofwisconsinpress",
+      "publishedIn": "History of Anthropology",
+      "startPage": "42",
+      "publishedBy": "University of Wisconsin Press",
+      "authorship": "https://scholars.duke.edu/individual/author644183-8194252",
+      "volume": "9"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013056",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "The Color Blind Bind",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013056\">The Color Blind Bind.</a> In: Cultural Diversity in the United States. Malden, MA: Blackwell Press; 2001. p. 103-19.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013056\">\"The Color Blind Bind.\"</a> <em>Cultural Diversity in the United States.</em> Malden, MA: Blackwell Press, 2001. 103-19.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2001",
+      "apaCitation": "Baker, LD. (2001). <a href=\"https://scholars.duke.edu/individual/pub1013056\">The Color Blind Bind.</a> In <em>Cultural Diversity in the United States</em> (pp. 103-19). Malden, MA: Blackwell Press.",
+      "year": "2001-01-01T00:00:00",
+      "endPage": "19",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013056\">\"The Color Blind Bind.\"</a> In <em>Cultural Diversity in the United States</em>, 103-19. Malden, MA: Blackwell Press, 2001.",
+      "publisher": "https://scholars.duke.edu/individual/publishermaldenmablackwellpress",
+      "parentBookTitle": "Cultural Diversity in the United States",
+      "startPage": "103",
+      "publishedBy": "Malden, MA: Blackwell Press",
+      "authorship": "https://scholars.duke.edu/individual/author1013056-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub644442",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Response to 'Philosophical Aspects of the \"AAA Statement on 'Race' \"",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub644442\">Response to 'Philosophical Aspects of the \"AAA Statement on 'Race' \".</a> Anthropological Theory. 2001;1(4):467-471.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644442\">\"Response to 'Philosophical Aspects of the \"AAA Statement on 'Race' \".\"</a> <em>Anthropological Theory</em> 1.4 (2001): 467-471.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2001",
+      "abstract": "2001 Response to 'Philosophical Aspects of the \"AAA \nStatement on 'Race' \" Anthropological Theory Vol. 1(4)467-\n471.",
+      "apaCitation": "Baker, LD. (2001). <a href=\"https://scholars.duke.edu/individual/pub644442\">Response to 'Philosophical Aspects of the \"AAA Statement on 'Race' \".</a> <em>Anthropological Theory</em>, <em>1</em>(4), 467-471.",
+      "year": "2001-01-01T00:00:00",
+      "endPage": "471",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644442\">\"Response to 'Philosophical Aspects of the \"AAA Statement on 'Race' \".\"</a> <em>Anthropological Theory</em> 1, no. 4 (2001): 467-471.",
+      "issue": "4",
+      "publishedIn": "Anthropological Theory",
+      "startPage": "467",
+      "authorship": "https://scholars.duke.edu/individual/author644442-8194252",
+      "volume": "1"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub651745",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Profit, Power, and Privilege: The Racial Politics of Ancestry",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub651745\">Profit, Power, and Privilege: The Racial Politics of Ancestry.</a> Souls: A Critical Journal of Black Politics, Culture and Society. 2001;3:66-72.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub651745\">\"Profit, Power, and Privilege: The Racial Politics of Ancestry.\"</a> <em>Souls: A Critical Journal of Black Politics, Culture and Society</em> 3 (2001): 66-72.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2001",
+      "abstract": "2001 Profit, Power, and Privilege: The Racial Politics of Ancestry. Souls: A Critical Journal of Black Politics, Culture, & Soceity 3(4):66-72.",
+      "apaCitation": "Baker, LD. (2001). <a href=\"https://scholars.duke.edu/individual/pub651745\">Profit, Power, and Privilege: The Racial Politics of Ancestry.</a> <em>Souls: A Critical Journal of Black Politics, Culture and Society</em>, <em>3</em>, 66-72.",
+      "year": "2001-01-01T00:00:00",
+      "endPage": "72",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub651745\">\"Profit, Power, and Privilege: The Racial Politics of Ancestry.\"</a> <em>Souls: A Critical Journal of Black Politics, Culture and Society</em> 3 (2001): 66-72.",
+      "publishedIn": "Souls: A Critical Journal of Black Politics, Culture and Society",
+      "startPage": "66",
+      "authorship": "https://scholars.duke.edu/individual/author651745-8194252",
+      "volume": "3"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub644184",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Daniel G. Brinton's success on the road to obscurity, 1890-99",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub644184\">Daniel G. Brinton's success on the road to obscurity, 1890-99.</a> CULTURAL ANTHROPOLOGY. 2000 Aug;15(3):394-423. PubMed PMID: 19530386.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644184\">\"Daniel G. Brinton's success on the road to obscurity, 1890-99.\"</a> <em>CULTURAL ANTHROPOLOGY</em> 15.3 (August 2000): 394-423.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue200008",
+      "pmid": "19530386",
+      "apaCitation": "Baker, LD. (2000, August). <a href=\"https://scholars.duke.edu/individual/pub644184\">Daniel G. Brinton's success on the road to obscurity, 1890-99.</a> <em>CULTURAL ANTHROPOLOGY</em>, <em>15</em>(3), 394-423.",
+      "year": "2000-08-01T00:00:00",
+      "endPage": "423",
+      "publicationSource": "wos-lite",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644184\">\"Daniel G. Brinton's success on the road to obscurity, 1890-99.\"</a> <em>CULTURAL ANTHROPOLOGY</em> 15, no. 3 (August 2000): 394-423.",
+      "issue": "3",
+      "publicationVenue": "https://scholars.duke.edu/individual/jou0886-7356",
+      "publishedIn": "Cultural Anthropology",
+      "startPage": "394",
+      "doi": "10.1525/can.2000.15.3.394",
+      "authorship": "https://scholars.duke.edu/individual/author644184-8194252",
+      "volume": "15"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013057",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Afrocentricty and the American Dream",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013057\">Afrocentricty and the American Dream.</a> In: Dispatches From the Ebony Tower: Intellectuals Confront the African American Experience. Columbia University Press; 2000. p. 224-35.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013057\">\"Afrocentricty and the American Dream.\"</a> <em>Dispatches From the Ebony Tower: Intellectuals Confront the African American Experience.</em> Columbia University Press, 2000. 224-35.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2000",
+      "apaCitation": "Baker, LD. (2000). <a href=\"https://scholars.duke.edu/individual/pub1013057\">Afrocentricty and the American Dream.</a> In <em>Dispatches From the Ebony Tower: Intellectuals Confront the African American Experience</em> (pp. 224-35). Columbia University Press.",
+      "year": "2000-01-01T00:00:00",
+      "endPage": "35",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013057\">\"Afrocentricty and the American Dream.\"</a> In <em>Dispatches From the Ebony Tower: Intellectuals Confront the African American Experience</em>, 224-35. Columbia University Press, 2000.",
+      "publisher": "https://scholars.duke.edu/individual/publishercolumbiauniversitypress",
+      "parentBookTitle": "Dispatches From the Ebony Tower: Intellectuals Confront the African American Experience",
+      "startPage": "224",
+      "publishedBy": "Columbia University Press",
+      "authorship": "https://scholars.duke.edu/individual/author1013057-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013074",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Review of African-American Pioneers in Anthropology, edited Faye V. Harrison and Ira E. Harrison",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013074\">Review of African-American Pioneers in Anthropology, edited Faye V. Harrison and Ira E. Harrison.</a> American Anthropologist. 2000;102:368-370. (Review)",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013074\">\"Review of African-American Pioneers in Anthropology, edited Faye V. Harrison and Ira E. Harrison.\"</a> <em>American Anthropologist</em> 102 (2000): 368-370. (Review)",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue2000",
+      "abstract": "2000 Review of African-American Pioneers in Anthropology, edited Faye V. Harrison and Ira E. Harrison. American Anthropologist 102(2):368-370.",
+      "apaCitation": "Baker, LD. (2000). <a href=\"https://scholars.duke.edu/individual/pub1013074\">Review of African-American Pioneers in Anthropology, edited Faye V. Harrison and Ira E. Harrison.</a> <em>American Anthropologist</em>, <em>102</em>, 368-370. (Review)",
+      "year": "2000-01-01T00:00:00",
+      "endPage": "370",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013074\">\"Review of African-American Pioneers in Anthropology, edited Faye V. Harrison and Ira E. Harrison.\"</a> <em>American Anthropologist</em> 102 (2000): 368-370. (Review)",
+      "subtypes": "Review",
+      "publishedIn": "American Anthropologist",
+      "startPage": "368",
+      "authorship": "https://scholars.duke.edu/individual/author1013074-8194252",
+      "volume": "102"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013076",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Commitment to Scientific Truth",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013076\">Commitment to Scientific Truth.</a> Anthropology Newsletter. 1999 Apr;40:2-2.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013076\">\"Commitment to Scientific Truth.\"</a> <em>Anthropology Newsletter</em> 40 (April 1999): 2-2.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue199904",
+      "apaCitation": "Baker, LD. (1999, April). <a href=\"https://scholars.duke.edu/individual/pub1013076\">Commitment to Scientific Truth.</a> <em>Anthropology Newsletter</em>, <em>40</em>, 2-2.",
+      "year": "1999-04-01T00:00:00",
+      "endPage": "2",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013076\">\"Commitment to Scientific Truth.\"</a> <em>Anthropology Newsletter</em> 40 (April 1999): 2-2.",
+      "publishedIn": "Anthropology Newsletter",
+      "startPage": "2",
+      "authorship": "https://scholars.duke.edu/individual/author1013076-8194252",
+      "volume": "40"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013077",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Review of The Roots of African American Identity: Memory and History in Free Antebellum Communities, by Elizabeth Rauh Bethel",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013077\">Review of The Roots of African American Identity: Memory and History in Free Antebellum Communities, by Elizabeth Rauh Bethel.</a> Social Forces. 1999;78:372-374. (Review)",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013077\">\"Review of The Roots of African American Identity: Memory and History in Free Antebellum Communities, by Elizabeth Rauh Bethel.\"</a> <em>Social Forces</em> 78 (1999): 372-374. (Review)",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue1999",
+      "abstract": "1999 Review of The Roots of African American Identity: Memory and History in Free Antebellum Communities, by Elizabeth Rauh Bethel. Social Forces 78(1)372-374.",
+      "apaCitation": "Baker, LD. (1999). <a href=\"https://scholars.duke.edu/individual/pub1013077\">Review of The Roots of African American Identity: Memory and History in Free Antebellum Communities, by Elizabeth Rauh Bethel.</a> <em>Social Forces</em>, <em>78</em>, 372-374. (Review)",
+      "year": "1999-01-01T00:00:00",
+      "endPage": "374",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013077\">\"Review of The Roots of African American Identity: Memory and History in Free Antebellum Communities, by Elizabeth Rauh Bethel.\"</a> <em>Social Forces</em> 78 (1999): 372-374. (Review)",
+      "subtypes": "Review",
+      "publishedIn": "Social Forces",
+      "startPage": "372",
+      "authorship": "https://scholars.duke.edu/individual/author1013077-8194252",
+      "volume": "78"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1020043",
+    "vivoType": "http://purl.org/ontology/bibo/BookSection",
+    "label": "Racism in Professional Settings: Forms of Address as Clues to Power Relations",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1020043\">Racism in Professional Settings: Forms of Address as Clues to Power Relations.</a> In: Race & Ideology: Language, Symbolism, and Popular Culture. Detroit: Wayne State University Press; 1999. p. 115-132.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020043\">\"Racism in Professional Settings: Forms of Address as Clues to Power Relations.\"</a> <em>Race & Ideology: Language, Symbolism, and Popular Culture.</em> Detroit: Wayne State University Press, 1999. 115-132.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue1999",
+      "apaCitation": "Baker, LD. (1999). <a href=\"https://scholars.duke.edu/individual/pub1020043\">Racism in Professional Settings: Forms of Address as Clues to Power Relations.</a> In <em>Race & Ideology: Language, Symbolism, and Popular Culture</em> (pp. 115-132). Detroit: Wayne State University Press.",
+      "year": "1999-01-01T00:00:00",
+      "endPage": "132",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1020043\">\"Racism in Professional Settings: Forms of Address as Clues to Power Relations.\"</a> In <em>Race & Ideology: Language, Symbolism, and Popular Culture</em>, 115-132. Detroit: Wayne State University Press, 1999.",
+      "publisher": "https://scholars.duke.edu/individual/publisherdetroitwaynestateuniversitypress",
+      "parentBookTitle": "Race & Ideology: Language, Symbolism, and Popular Culture",
+      "startPage": "115",
+      "publishedBy": "Detroit: Wayne State University Press",
+      "authorship": "https://scholars.duke.edu/individual/author1020043-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013045",
+    "vivoType": "http://purl.org/ontology/bibo/Book",
+    "label": "From Savage to Negro: Anthropology and the Construction of Race, 1896-1954",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013045\">From Savage to Negro: Anthropology and the Construction of Race, 1896-1954.</a> University of California Press; 1998.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013045\"><em>From Savage to Negro: Anthropology and the Construction of Race, 1896-1954.</em></a> University of California Press, 1998.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue1998",
+      "abstract": "Lee D. Baker explores what racial categories mean to the American public and how these meanings are reinforced by anthropology, popular culture, and the law. Focusing on the period between two landmark Supreme Court decisions– Plessy v. Ferguson (the so-called \"separate but equal\" doctrine established in 1896) and Brown v. Board of Education (the public school desegregation decision of 1954)–Baker shows how racial categories change over time. Baker paints a vivid picture of the relationships between specific African American and white scholars, who orchestrated a paradigm shift within the social sciences from ideas based on Social Darwinism to those based on cultural relativism. He demonstrates that the greatest impact on the way the law codifies racial differences has been made by organizations such as the NAACP, which skillfully appropriated the new social science to exploit the politics of the Cold War.",
+      "apaCitation": "Baker, LD. (1998). <a href=\"https://scholars.duke.edu/individual/pub1013045\"><em>From Savage to Negro: Anthropology and the Construction of Race, 1896-1954.</em></a> University of California Press.",
+      "year": "1998-01-01T00:00:00",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013045\"><em>From Savage to Negro: Anthropology and the Construction of Race, 1896-1954.</em></a> University of California Press, 1998.",
+      "publisher": "https://scholars.duke.edu/individual/publisheruniversityofcaliforniapress",
+      "publishedBy": "University of California Press",
+      "authorship": "https://scholars.duke.edu/individual/author1013045-8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub644452",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Unraveling the Boasian Discourse: The Racial Politics of \"Culture\" in School Desegregation, 1944-1954.",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub644452\">Unraveling the Boasian Discourse: The Racial Politics of \"Culture\" in School Desegregation, 1944-1954.</a> Transforming Anthropology. 1998;7:15-32.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644452\">\"Unraveling the Boasian Discourse: The Racial Politics of \"Culture\" in School Desegregation, 1944-1954.\"</a> <em>Transforming Anthropology</em> 7 (1998): 15-32.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue1998",
+      "abstract": "1998 Unraveling the Boasian Discourse: The Racial Politics of \"Culture\" in School Desegregation, 1944-1954. Transforming Anthropology 7:(1)15-32.",
+      "apaCitation": "Baker, LD. (1998). <a href=\"https://scholars.duke.edu/individual/pub644452\">Unraveling the Boasian Discourse: The Racial Politics of \"Culture\" in School Desegregation, 1944-1954.</a> <em>Transforming Anthropology</em>, <em>7</em>, 15-32.",
+      "year": "1998-01-01T00:00:00",
+      "endPage": "32",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644452\">\"Unraveling the Boasian Discourse: The Racial Politics of \"Culture\" in School Desegregation, 1944-1954.\"</a> <em>Transforming Anthropology</em> 7 (1998): 15-32.",
+      "publishedIn": "Transforming Anthropology",
+      "startPage": "15",
+      "authorship": "https://scholars.duke.edu/individual/author644452-8194252",
+      "volume": "7"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013082",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Review of Rethinking Race: Franz Boaz and His Contemporaries, by Vernon J. Williams, Jr.",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013082\">Review of Rethinking Race: Franz Boaz and His Contemporaries, by Vernon J. Williams, Jr.</a> American Journal of Sociology. 1996;102:909-910. (Review)",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013082\">\"Review of Rethinking Race: Franz Boaz and His Contemporaries, by Vernon J. Williams, Jr.\"</a> <em>American Journal of Sociology</em> 102 (1996): 909-910. (Review)",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue1996",
+      "abstract": "1996 Review of Rethinking Race: Franz Boaz and His Contemporaries, by Vernon J. Williams, Jr. American Journal of Sociology 102(3):909-910.",
+      "apaCitation": "Baker, LD. (1996). <a href=\"https://scholars.duke.edu/individual/pub1013082\">Review of Rethinking Race: Franz Boaz and His Contemporaries, by Vernon J. Williams, Jr.</a> <em>American Journal of Sociology</em>, <em>102</em>, 909-910. (Review)",
+      "year": "1996-01-01T00:00:00",
+      "endPage": "910",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013082\">\"Review of Rethinking Race: Franz Boaz and His Contemporaries, by Vernon J. Williams, Jr.\"</a> <em>American Journal of Sociology</em> 102 (1996): 909-910. (Review)",
+      "subtypes": "Review",
+      "publishedIn": "American Journal of Sociology",
+      "startPage": "909",
+      "authorship": "https://scholars.duke.edu/individual/author1013082-8194252",
+      "volume": "102"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub644437",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Racism in Professional Settings: Forms of Address as Clues to Power Relations",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub644437\">Racism in Professional Settings: Forms of Address as Clues to Power Relations.</a> Journal of Applied Behavioral Sciences. 1995;31(2):186-201.",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644437\">\"Racism in Professional Settings: Forms of Address as Clues to Power Relations.\"</a> <em>Journal of Applied Behavioral Sciences</em> 31.2 (1995): 186-201.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "datetime": "https://scholars.duke.edu/individual/dateValue1995",
+      "apaCitation": "Baker, LD. (1995). <a href=\"https://scholars.duke.edu/individual/pub644437\">Racism in Professional Settings: Forms of Address as Clues to Power Relations.</a> <em>Journal of Applied Behavioral Sciences</em>, <em>31</em>(2), 186-201.",
+      "year": "1995-01-01T00:00:00",
+      "endPage": "201",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub644437\">\"Racism in Professional Settings: Forms of Address as Clues to Power Relations.\"</a> <em>Journal of Applied Behavioral Sciences</em> 31, no. 2 (1995): 186-201.",
+      "issue": "2",
+      "publishedIn": "Journal of Applied Behavioral Sciences",
+      "startPage": "186",
+      "authorship": "https://scholars.duke.edu/individual/author644437-8194252",
+      "volume": "31"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub644454",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Race, Racism, and the History of U.S. Anthropology",
+    "attributes": {
+      "icmjeCitation": "Baker LD, Patterson TC. <a href=\"https://scholars.duke.edu/individual/pub644454\">Race, Racism, and the History of U.S. Anthropology.</a> Transforming Anthropology. 1994;5(1):1-7.",
+      "mlaCitation": "Baker, LD, and Patterson, TC. <a href=\"https://scholars.duke.edu/individual/pub644454\">\"Race, Racism, and the History of U.S. Anthropology.\"</a> <em>Transforming Anthropology</em> 5.1 (1994): 1-7.",
+      "isFavorite": "false",
+      "authorList": "Baker, LD; Patterson, TC",
+      "datetime": "https://scholars.duke.edu/individual/dateValue1994",
+      "abstract": "Baker, Lee D. and Thomas C. Patterson \n1994 Race, Racism, and the History of U.S. Anthropology. \nTransforming Anthropology (5)1:1-7.",
+      "apaCitation": "Baker, LD, & Patterson, TC. (1994). <a href=\"https://scholars.duke.edu/individual/pub644454\">Race, Racism, and the History of U.S. Anthropology.</a> <em>Transforming Anthropology</em>, <em>5</em>(1), 1-7.",
+      "year": "1994-01-01T00:00:00",
+      "endPage": "7",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD, and Patterson, TC. <a href=\"https://scholars.duke.edu/individual/pub644454\">\"Race, Racism, and the History of U.S. Anthropology.\"</a> <em>Transforming Anthropology</em> 5, no. 1 (1994): 1-7.",
+      "issue": "1",
+      "publishedIn": "Transforming Anthropology",
+      "startPage": "1",
+      "authorship": "https://scholars.duke.edu/individual/author644454-8194252",
+      "volume": "5"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/pub1013068",
+    "vivoType": "http://purl.org/ontology/bibo/AcademicArticle",
+    "label": "Racism: A Short History by George M. Fredrickson",
+    "attributes": {
+      "icmjeCitation": "Baker LD. <a href=\"https://scholars.duke.edu/individual/pub1013068\">Racism: A Short History by George M. Fredrickson.</a> New West Indian Guide. 78:125-126. (Review)",
+      "mlaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013068\">\"Racism: A Short History by George M. Fredrickson.\"</a> <em>New West Indian Guide</em> 78: 125-126. (Review)",
+      "isFavorite": "false",
+      "authorList": "Baker, LD",
+      "apaCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013068\">Racism: A Short History by George M. Fredrickson.</a> <em>New West Indian Guide</em>, <em>78</em>, 125-126. (Review)",
+      "endPage": "126",
+      "publicationSource": "manual",
+      "chicagoCitation": "Baker, LD. <a href=\"https://scholars.duke.edu/individual/pub1013068\">\"Racism: A Short History by George M. Fredrickson.\"</a> <em>New West Indian Guide</em> 78: 125-126. (Review)",
+      "subtypes": "Review",
+      "publishedIn": "New West Indian Guide",
+      "startPage": "125",
+      "authorship": "https://scholars.duke.edu/individual/author1013068-8194252",
+      "volume": "78"
+    }
+  }],
+  "awards": [],
+  "artisticWorks": [],
+  "grants": [],
+  "courses": [{
+    "uri": "https://scholars.duke.edu/individual/courseAAAS251",
+    "vivoType": "http://vivoweb.org/ontology/core#Course",
+    "label": "AAAS  251: The Anthropology of Race",
+    "attributes": {
+      "role": "https://scholars.duke.edu/individual/teacherRoleAAAS251-8194252",
+      "roleName": "Instructor"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/courseCULANTH208",
+    "vivoType": "http://vivoweb.org/ontology/core#Course",
+    "label": "CULANTH  208: The Anthropology of Race",
+    "attributes": {
+      "role": "https://scholars.duke.edu/individual/teacherRoleCULANTH208-8194252",
+      "roleName": "Instructor"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/courseCULANTH208FS",
+    "vivoType": "http://vivoweb.org/ontology/core#Course",
+    "label": "CULANTH  208FS: The Anthropology of Race",
+    "attributes": {
+      "role": "https://scholars.duke.edu/individual/teacherRoleCULANTH208FS-8194252",
+      "roleName": "Instructor"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/courseCULANTH291",
+    "vivoType": "http://vivoweb.org/ontology/core#Course",
+    "label": "CULANTH  291: Independent Study",
+    "attributes": {
+      "role": "https://scholars.duke.edu/individual/teacherRoleCULANTH291-8194252",
+      "roleName": "Instructor"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/courseCULANTH293",
+    "vivoType": "http://vivoweb.org/ontology/core#Course",
+    "label": "CULANTH  293: Research Independent Study",
+    "attributes": {
+      "role": "https://scholars.duke.edu/individual/teacherRoleCULANTH293-8194252",
+      "roleName": "Instructor"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/courseCULANTH791",
+    "vivoType": "http://vivoweb.org/ontology/core#Course",
+    "label": "CULANTH  791: Special Readings",
+    "attributes": {
+      "role": "https://scholars.duke.edu/individual/teacherRoleCULANTH791-8194252",
+      "roleName": "Instructor"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/courseCULANTH793",
+    "vivoType": "http://vivoweb.org/ontology/core#Course",
+    "label": "CULANTH  793: Individual Research in Cultural Anthropology",
+    "attributes": {
+      "role": "https://scholars.duke.edu/individual/teacherRoleCULANTH793-8194252",
+      "roleName": "Instructor"
+    }
+  }],
+  "professionalActivities": [],
+  "positions": [{
+    "uri": "https://scholars.duke.edu/individual/apt4000395",
+    "vivoType": "http://vivoweb.org/ontology/core#PrimaryPosition",
+    "label": "Professor of Cultural Anthropology",
+    "attributes": {
+      "startDatetimeUri": "https://scholars.duke.edu/individual/dateInterval-s20100701",
+      "organizationLabel": "Cultural Anthropology",
+      "organizationUri": "https://scholars.duke.edu/individual/org50000503",
+      "rank": "1",
+      "startYear": "2010-07-01T00:00:00",
+      "dateUri": "https://scholars.duke.edu/individual/dateInterval-s20100701",
+      "personUri": "https://scholars.duke.edu/individual/per8194252",
+      "endDatetimeUri": "https://scholars.duke.edu/individual/dateInterval-s20100701"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/apt4006821",
+    "vivoType": "http://vivo.duke.edu/vivo/ontology/duke-extension#SecondaryPosition",
+    "label": "Professor in the Department of Sociology",
+    "attributes": {
+      "startDatetimeUri": "https://scholars.duke.edu/individual/dateInterval-s20120101",
+      "organizationLabel": "Sociology",
+      "organizationUri": "https://scholars.duke.edu/individual/org50719993",
+      "rank": "3",
+      "startYear": "2012-01-01T00:00:00",
+      "dateUri": "https://scholars.duke.edu/individual/dateInterval-s20120101",
+      "personUri": "https://scholars.duke.edu/individual/per8194252",
+      "endDatetimeUri": "https://scholars.duke.edu/individual/dateInterval-s20120101"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/apt4011139",
+    "vivoType": "http://vivoweb.org/ontology/core#FacultyAdministrativePosition",
+    "label": "Dean of Academic Affairs  of Trinity College of Arts and Sciences",
+    "attributes": {
+      "startDatetimeUri": "https://scholars.duke.edu/individual/dateInterval-s20130701",
+      "organizationLabel": "Trinity College of Arts & Sciences",
+      "organizationUri": "https://scholars.duke.edu/individual/org50000491",
+      "rank": "5",
+      "startYear": "2013-07-01T00:00:00",
+      "dateUri": "https://scholars.duke.edu/individual/dateInterval-s20130701",
+      "personUri": "https://scholars.duke.edu/individual/per8194252",
+      "endDatetimeUri": "https://scholars.duke.edu/individual/dateInterval-s20130701"
+    }
+  }],
+  "addresses": [{
+    "uri": "https://scholars.duke.edu/individual/addr8194252_work_location",
+    "vivoType": "http://vivoweb.org/ontology/core#Address",
+    "label": "114 Allen, Durham, NC 27708-0042",
+    "attributes": {
+      "city": "Durham",
+      "state": "NC",
+      "postalCode": "27708-0042",
+      "personUri": "https://scholars.duke.edu/individual/per8194252",
+      "address1": "114 Allen"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/addr8194252_work_mailing",
+    "vivoType": "http://vivoweb.org/ontology/core#USPostalAddress",
+    "label": "Box 90042, Durham, NC 27708-0042",
+    "attributes": {
+      "city": "Durham",
+      "state": "NC",
+      "postalCode": "27708-0042",
+      "personUri": "https://scholars.duke.edu/individual/per8194252",
+      "address1": "Box 90042"
+    }
+  }],
+  "educations": [{
+    "uri": "https://scholars.duke.edu/individual/edu81942521989academicDegree33",
+    "vivoType": "http://vivoweb.org/ontology/core#EducationalTraining",
+    "label": "B.S. 1989",
+    "attributes": {
+      "degreeUri": "http://vivoweb.org/ontology/degree/academicDegree33",
+      "endDate": "1989-01-01T00:00:00",
+      "degree": "B.S.",
+      "organizationUri": "https://scholars.duke.edu/individual/insportlandstateuniversity",
+      "institution": "Portland State University",
+      "dateTimeUri": "https://scholars.duke.edu/individual/dateInterval-e19890101",
+      "personUri": "https://scholars.duke.edu/individual/per8194252",
+      "endUri": "https://scholars.duke.edu/individual/dateValue1989"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/edu81942521994academicDegree98",
+    "vivoType": "http://vivoweb.org/ontology/core#EducationalTraining",
+    "label": "Ph.D. 1994",
+    "attributes": {
+      "degreeUri": "http://vivoweb.org/ontology/degree/academicDegree98",
+      "endDate": "1994-01-01T00:00:00",
+      "degree": "Ph.D.",
+      "organizationUri": "https://scholars.duke.edu/individual/instempleuniversity",
+      "institution": "Temple University",
+      "dateTimeUri": "https://scholars.duke.edu/individual/dateInterval-e19940101",
+      "personUri": "https://scholars.duke.edu/individual/per8194252",
+      "endUri": "https://scholars.duke.edu/individual/dateValue1994"
+    }
+  }],
+  "researchAreas": [{
+    "uri": "https://scholars.duke.edu/individual/meshD000884",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "Anthropology, Cultural",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/meshD005197",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "Famous Persons",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/meshD049673",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "History, 20th Century",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/meshD006801",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "Humans",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/meshD007585",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "Jews",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/meshD028683",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "National Socialism",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/meshD011287",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "Prejudice",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/meshD011822",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "Race Relations",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "https://scholars.duke.edu/individual/meshD014481",
+    "vivoType": "http://www.w3.org/2004/02/skos/core#Concept",
+    "label": "United States",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }],
+  "webpages": [{
+    "uri": "https://scholars.duke.edu/individual/urllink8194252http://www.duke.edu/~ldbaker",
+    "vivoType": "http://vivoweb.org/ontology/core#URLLink",
+    "label": "http://www.duke.edu/~ldbaker",
+    "attributes": {
+      "personUri": "https://scholars.duke.edu/individual/per8194252",
+      "linkURI": "http://www.duke.edu/~ldbaker"
+    }
+  }],
+  "geographicalFocus": [{
+    "uri": "http://aims.fao.org/aos/geopolitical.owl#Africa",
+    "vivoType": "GeographicRegion",
+    "label": "Africa",
+    "attributes": {
+      "focusTypeLabel": "Expertise",
+      "focusType": "http://vivo.duke.edu/vivo/ontology/duke-geo-extension#GeographicExpertise",
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "http://aims.fao.org/aos/geopolitical.owl#Australia",
+    "vivoType": "GeographicRegion",
+    "label": "Australia",
+    "attributes": {
+      "focusTypeLabel": "Expertise",
+      "focusType": "http://vivo.duke.edu/vivo/ontology/duke-geo-extension#GeographicExpertise",
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }, {
+    "uri": "http://aims.fao.org/aos/geopolitical.owl#Ghana",
+    "vivoType": "GeographicRegion",
+    "label": "Ghana",
+    "attributes": {
+      "focusTypeLabel": "Teaching",
+      "focusType": "http://vivo.duke.edu/vivo/ontology/duke-geo-extension#GeographicTeaching",
+      "personUri": "https://scholars.duke.edu/individual/per8194252"
+    }
+  }],
+  "attributes": {
+    "preferredTitle": "Professor of Cultural Anthropology",
+    "phoneNumber": "(919) 684-3465",
+    "primaryEmail": "ldbaker@duke.edu",
+    "middleName": "D.",
+    "imageUri": "https://scholars.duke.edu/individual/file_i8194252",
+    "mentorshipAvailabilities": "",
+    "alternateId": "0116747",
+    "prefixName": "Professor",
+    "imageDownload": "https://scholars.duke.edu/individual/i8194252",
+    "lastName": "Baker",
+    "firstName": "Lee",
+    "imageThumbnailUri": "https://scholars.duke.edu/individual/file_t8194252",
+    "imageThumbnailDownload": "https://scholars.duke.edu/individual/t8194252",
+    "overview": "Lee D. Baker is Dean of Academic Affairs of  Trinity College of Arts and Sciences, Associate Vice Provost for Undergraduate Education, and Professor of Cultural Anthropology, Sociology, and African and African American Studies at Duke University. He received his B.S. from Portland State University and doctorate in anthropology from Temple University. He has been a resident fellow at Harvard’s W.E.B. Du Bois Institute, the Smithsonian’s National Museum of American History, Johns Hopkins’s Institute for Global Studies, The University of Ghana-Legon, the American Philosophical Society, and the National Humanities Center. His books include From Savage to Negro: Anthropology and the Construction of Race, 1896-1954 (1998), Life in America: Identity and Everyday Experience (2003), and Anthropology and the Racial Politics of Culture (2010). Although he focuses on the history of anthropology, he has published numerous articles on such wide ranging subjects as socio-linguistics to race and democracy. Baker is also the recipient of Richard K. Lublin Distinguished Teaching Award."
+  }
+}
