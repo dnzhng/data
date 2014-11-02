@@ -21,8 +21,25 @@ function visualize (data) {
     .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+  var circle = svg.selectAll("circle")
+    .data(Object.keys(pubYearCount))
+    .enter()
+    .append("circle");
+
   resize();
   d3.select(window).on('resize.baker', resize);
+
+  circle
+    .attr("cx", 500)
+    .attr("cy", height/2)
+    .attr("fill", "orange");
+
+  Object.keys(pubYearCount).forEach(function(d, i) {
+    if (!isNaN(d)) {
+      circle.transition().duration(1000).delay(i*1000)
+          .attr("r", pubYearCount[d]*25);
+    }
+  });
 
   function addYearToMap (year) {
   	if (pubYearCount[year]) {
