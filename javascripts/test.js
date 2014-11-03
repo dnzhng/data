@@ -1,4 +1,4 @@
-d3.json("/baker_lee.json", function(error, json) {
+d3.json("/ariely_dan.json", function(error, json) {
   if (error) return console.warn(error);
   visualize(json);
 });
