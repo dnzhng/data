@@ -1,4 +1,4 @@
-d3.json("/ariely_dan.json", function(error, json) {
+d3.json("/baker_lee.json", function(error, json) {
   if (error) return console.warn(error);
   visualize(json);
 });
@@ -12,7 +12,7 @@ function visualize (data) {
     height = 500 - margin.top - margin.bottom
     aspect = 500/1200;
 
-  var svg = d3.select("#lee_baker").append("svg")
+  var svg = d3.select("#pubByYear").append("svg")
     .attr("preserveAspectRatio", "xMidYMid")
     .attr("viewBox", "0,0,1200,500")
     .attr("class", "baker")
@@ -22,70 +22,73 @@ function visualize (data) {
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
   var circle = svg.append("circle");
-  var years = svg.append("text");
-  var pubs = svg.append("text");
-
-  // Drop Shadow Filter
-  var defs = svg.append("defs");
-
-  var filter = defs.append("filter")
-      .attr("id", "dropshadow")
-
-  filter.append("feGaussianBlur")
-      .attr("in", "SourceAlpha")
-      .attr("stdDeviation", 4)
-      .attr("result", "blur");
-  filter.append("feOffset")
-      .attr("in", "blur")
-      .attr("dx", 2)
-      .attr("dy", 2)
-      .attr("result", "offsetBlur");
-
-  var feMerge = filter.append("feMerge");
-
-  feMerge.append("feMergeNode")
-      .attr("in", "offsetBlur")
-  feMerge.append("feMergeNode")
-      .attr("in", "SourceGraphic");
+  var years = svg.append("text").style("text-anchor", "middle");
+  var pubs = svg.append("text").style("text-anchor", "middle");
 
   resize();
   d3.select(window).on('resize.baker', resize);
 
+
+  console.log(width);
   svg.append("text")
-    .attr("x", 50)
-    .attr("y", 50)
-    .attr("filter", "url(#dropshadow)")
+    .style("text-anchor", "middle")
+    .attr("x", 505)
+    .attr("y", 25)
     .text(nameSplit.reverse().join(" ") + "'s Publications by Year");
 
   circle.attr("cx", 505)
     .attr("cy", height/2+10);
 
-  years.attr("x", 460)
-    .attr("y", height/2)
-    .attr("filter", "url(#dropshadow)");
+  years.attr("x", 505)
+    .attr("y", 75);
 
-  pubs.attr("x", 400)
-    .attr("y", height/2 + 50)
-    .attr("filter", "url(#dropshadow)");
+  pubs.attr("x", 505)
+    .attr("y", height/2 + 200);
 
-  Object.keys(pubYearCount).forEach(function(d, i) {
-    if (!isNaN(d)) {
-      circle.transition().duration(1000).delay(i*1000)
-        .attr("r", pubYearCount[d]*25);
+  iterateThroughYears();
+  d3.select("#slider").property("max", Object.keys(pubYearCount).length)
+    .on("change", function() {changeYear(this.value);});
 
-      years.transition().duration(1000).delay(i*1000)
-        .text(d);
+  function iterateThroughYears() {
+    Object.keys(pubYearCount).forEach(function(d, i) {
+      if (!isNaN(d)) {
+        circle.transition().ease("elastic").duration(1000).delay(i*1000)
+          .attr("r", pubYearCount[d]*15);
 
-      pubs.transition().duration(1000).delay(i*1000)
-        .text(function() {
-          if (pubYearCount[d] === 1) {
-            return pubYearCount[d] + " publication";
-          } else {
-            return pubYearCount[d] + " publications";
-          }
-        });
-    }
-  });
+        years.transition().duration(1000).delay(i*1000)
+          .text(d);
+
+        pubs.transition().duration(1000).delay(i*1000)
+          .text(function() {
+            if (pubYearCount[d] === 1) {
+              return pubYearCount[d] + " publication";
+            } else {
+              return pubYearCount[d] + " publications";
+            }
+          });
+      }
+    });
+  }
+
+  function changeYear(sliderInput) {
+    var yearlist = Object.keys(pubYearCount);
+    console.log(yearlist + " " + sliderInput);
+    circle.transition().ease("elastic").duration(1000)
+      .attr("r", pubYearCount[yearlist[sliderInput]]*15);
+
+    years.transition().duration(1000)
+      .text(yearlist[sliderInput]);
+
+    pubs.transition().duration(1000)
+      .text(function() {
+        if (pubYearCount[yearlist[sliderInput]] === 1) {
+          return pubYearCount[yearlist[sliderInput]] + " publication";
+        } else {
+          return pubYearCount[yearlist[sliderInput]] + " publications";
+        }
+      });
+
+  }
 
   function addYearToMap (year) {
   	if (pubYearCount[year]) {
@@ -96,7 +99,7 @@ function visualize (data) {
   }
 
 	function resize() {
-	  width = parseInt(d3.select("#lee_baker").style("width"), 10);
+	  width = parseInt(d3.select("#pubByYear").style("width"), 10);
 	  width = width - margin.left - margin.right;
 	  d3.select("svg.baker").attr("width", width + margin.left + margin.right);
 	  d3.select("svg.baker").attr("height", (width + margin.top + margin.bottom) * aspect);

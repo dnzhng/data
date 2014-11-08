@@ -1,15 +1,16 @@
 #lee_baker svg {
-	background-color: #666666;
+	/*background-color: #666666;*/
 }
 
 text {
-	font-family: sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 400;
 	font-size: 36px;
-	fill: #fff;
-	fill-opacity: .7;
+	fill: #666;
+	fill-opacity: .9;
 }
 
 circle {
 	fill: #0680CD;
+	fill-opacity: .5;
 }
