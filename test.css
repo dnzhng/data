@@ -1,7 +1,3 @@
-#lee_baker svg {
-	/*background-color: #666666;*/
-}
-
 text {
 	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 400;
@@ -14,3 +10,31 @@ circle {
 	fill: #0680CD;
 	fill-opacity: .5;
 }
+
+input[type = range] {
+	-webkit-appearance: none;
+	margin: 0 auto;
+}
+
+input[type = range]:focus {
+	outline: none;
+}
+
+::-webkit-slider-runnable-track {
+	height: 5px;
+	background: #ddd;
+	border: none;
+	border-radius: 25px;
+}
+
+::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: #0680CD;
+    opacity: .8;
+    margin-top: -6px;
+}
+

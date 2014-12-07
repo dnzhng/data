@@ -15,7 +15,7 @@ function visualize (data) {
   var svg = d3.select("#pubByYear").append("svg")
     .attr("preserveAspectRatio", "xMidYMid")
     .attr("viewBox", "0,0,1200,500")
-    .attr("class", "baker")
+    .attr("class", "vis")
     .attr("width", width + margin.left + margin.right)
     .attr("height", (width + margin.top + margin.bottom)*aspect)
     .append("g")
@@ -26,10 +26,8 @@ function visualize (data) {
   var pubs = svg.append("text").style("text-anchor", "middle");
 
   resize();
-  d3.select(window).on('resize.baker', resize);
+  d3.select(window).on('resize.vis', resize);
 
-
-  console.log(width);
   svg.append("text")
     .style("text-anchor", "middle")
     .attr("x", 505)
@@ -46,7 +44,7 @@ function visualize (data) {
     .attr("y", height/2 + 200);
 
   iterateThroughYears();
-  d3.select("#slider").property("max", Object.keys(pubYearCount).length)
+  d3.select("#slider").property("max", Object.keys(pubYearCount).length-1)
     .on("change", function() {changeYear(this.value);});
 
   function iterateThroughYears() {
@@ -101,7 +99,8 @@ function visualize (data) {
 	function resize() {
 	  width = parseInt(d3.select("#pubByYear").style("width"), 10);
 	  width = width - margin.left - margin.right;
-	  d3.select("svg.baker").attr("width", width + margin.left + margin.right);
-	  d3.select("svg.baker").attr("height", (width + margin.top + margin.bottom) * aspect);
+	  d3.select("svg.vis").attr("width", width + margin.left + margin.right);
+	  d3.select("svg.vis").attr("height", (width + margin.top + margin.bottom) * aspect);
+    d3.select("#slider").style("width", (width/3) + "px")
 	}
 }
