@@ -19,7 +19,7 @@ function visualize (data) {
     .attr("width", width + margin.left + margin.right)
     .attr("height", (width + margin.top + margin.bottom)*aspect)
     .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+      .attr("transform", "translate(" + 0 + "," + margin.top + ")");
 
   var circle = svg.append("circle");
   var years = svg.append("text").style("text-anchor", "middle");
@@ -30,17 +30,17 @@ function visualize (data) {
 
   svg.append("text")
     .style("text-anchor", "middle")
-    .attr("x", 505)
+    .attr("x", 600)
     .attr("y", 25)
     .text(nameSplit.reverse().join(" ") + "'s Publications by Year");
 
-  circle.attr("cx", 505)
+  circle.attr("cx", 600)
     .attr("cy", height/2+10);
 
-  years.attr("x", 505)
+  years.attr("x", 600)
     .attr("y", 75);
 
-  pubs.attr("x", 505)
+  pubs.attr("x", 600)
     .attr("y", height/2 + 200);
 
   iterateThroughYears();
@@ -101,6 +101,6 @@ function visualize (data) {
 	  width = width - margin.left - margin.right;
 	  d3.select("svg.vis").attr("width", width + margin.left + margin.right);
 	  d3.select("svg.vis").attr("height", (width + margin.top + margin.bottom) * aspect);
-    d3.select("#slider").style("width", (width/3) + "px")
+    d3.select("#slider").style("width", (width/2) + "px")
 	}
 }
