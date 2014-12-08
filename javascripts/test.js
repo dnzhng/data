@@ -1,4 +1,4 @@
-d3.json("/baker_lee.json", function(error, json) {
+d3.json("/goldstein_david.json", function(error, json) {
   if (error) return console.warn(error);
   visualize(json);
 });
@@ -30,41 +30,39 @@ function visualize (data) {
 
   svg.append("text")
     .style("text-anchor", "middle")
-    .attr("x", 600)
+    .attr("x", 577.5)
     .attr("y", 25)
     .text(nameSplit.reverse().join(" ") + "'s Publications by Year");
 
-  circle.attr("cx", 600)
+  circle.attr("cx", 577.5)
     .attr("cy", height/2+10);
 
-  years.attr("x", 600)
+  years.attr("x", 577.5)
     .attr("y", 75);
 
-  pubs.attr("x", 600)
+  pubs.attr("x", 577.5)
     .attr("y", height/2 + 200);
 
   iterateThroughYears();
   d3.select("#slider").property("max", Object.keys(pubYearCount).length-1)
-    .on("change", function() {changeYear(this.value);});
+    .on("input", function() {changeYear(this.value);});
 
   function iterateThroughYears() {
     Object.keys(pubYearCount).forEach(function(d, i) {
-      if (!isNaN(d)) {
-        circle.transition().ease("elastic").duration(1000).delay(i*1000)
-          .attr("r", pubYearCount[d]*15);
+      circle.transition().ease("elastic").duration(1000).delay(i*1000)
+        .attr("r", pubYearCount[d]*15);
 
-        years.transition().duration(1000).delay(i*1000)
-          .text(d);
+      years.transition().duration(1000).delay(i*1000)
+        .text(d);
 
-        pubs.transition().duration(1000).delay(i*1000)
-          .text(function() {
-            if (pubYearCount[d] === 1) {
-              return pubYearCount[d] + " publication";
-            } else {
-              return pubYearCount[d] + " publications";
-            }
-          });
-      }
+      pubs.transition().duration(1000).delay(i*1000)
+        .text(function() {
+          if (pubYearCount[d] === 1) {
+            return pubYearCount[d] + " publication";
+          } else {
+            return pubYearCount[d] + " publications";
+          }
+        });
     });
   }
 
@@ -89,18 +87,21 @@ function visualize (data) {
   }
 
   function addYearToMap (year) {
-  	if (pubYearCount[year]) {
-  		pubYearCount[year]++;
-  	} else {
-  		pubYearCount[year]=1;
-  	};
+    if (!isNaN(year)) {
+    	if (pubYearCount[year]) {
+    		pubYearCount[year]++;
+    	} else {
+    		pubYearCount[year]=1;
+    	};
+    }
   }
 
 	function resize() {
 	  width = parseInt(d3.select("#pubByYear").style("width"), 10);
-	  width = width - margin.left - margin.right;
 	  d3.select("svg.vis").attr("width", width + margin.left + margin.right);
 	  d3.select("svg.vis").attr("height", (width + margin.top + margin.bottom) * aspect);
+    console.log(d3.select("svg.vis").attr("x"));
     d3.select("#slider").style("width", (width/2) + "px")
+      .style("margin", "30px " + (width/4) +"px")
 	}
 }

@@ -11,14 +11,9 @@ circle {
 	fill-opacity: .5;
 }
 
-g { 
-	display: block;
-	margin: 0 auto;
-}
-
 input[type = range] {
 	-webkit-appearance: none;
-	margin: 0 auto;
+	margin: 30px 450px;
 }
 
 input[type = range]:focus {
