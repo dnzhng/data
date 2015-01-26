@@ -1,4 +1,4 @@
-d3.json("/goldstein_david.json", function(error, json) {
+d3.json("/datasets/goldstein_david.json", function(error, json) {
   if (error) return console.warn(error);
   visualize(json);
 });
