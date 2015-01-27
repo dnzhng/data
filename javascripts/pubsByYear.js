@@ -43,10 +43,11 @@ function visualize (data) {
   pubs.attr("x", 577.5)
     .attr("y", height/2 + 200);
 
-  iterateThroughYears();
+  // iterateThroughYears();
+  changeYear(d3.select("#slider").property("value"));
   d3.select("#slider").property("max", Object.keys(pubYearCount).length-1)
     .on("input", function() {changeYear(this.value);});
-
+  // Animate through years, currently unused
   function iterateThroughYears() {
     Object.keys(pubYearCount).forEach(function(d, i) {
       circle.transition().ease("elastic").duration(1000).delay(i*1000)
@@ -65,10 +66,9 @@ function visualize (data) {
         });
     });
   }
-
+  //Change year value based on value from slider
   function changeYear(sliderInput) {
     var yearlist = Object.keys(pubYearCount);
-    console.log(yearlist + " " + sliderInput);
     circle.transition().ease("elastic").duration(1000)
       .attr("r", pubYearCount[yearlist[sliderInput]]*15);
 
@@ -100,7 +100,6 @@ function visualize (data) {
 	  width = parseInt(d3.select("#pubByYear").style("width"), 10);
 	  d3.select("svg.vis").attr("width", width + margin.left + margin.right);
 	  d3.select("svg.vis").attr("height", (width + margin.top + margin.bottom) * aspect);
-    console.log(d3.select("svg.vis").attr("x"));
     d3.select("#slider").style("width", (width/2) + "px")
       .style("margin", "30px " + (width/4) +"px")
 	}
