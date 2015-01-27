@@ -1,7 +1,12 @@
-d3.json("/datasets/goldstein_david.json", function(error, json) {
-  if (error) return console.warn(error);
-  visualize(json);
-});
+loadJson(d3.select("#dataSelect").property("value"));
+d3.select("#dataSelect").on("change", function() { loadJson(this.value) });
+function loadJson(dataSet) {
+  d3.json("/datasets/" + dataSet + ".json", function(error, json) {
+    if (error) return console.warn(error);
+    d3.select("svg").remove();
+    visualize(json);
+  });
+}
 
 function visualize (data) {
 	pubYearCount = {}
