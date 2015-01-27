@@ -1,5 +1,6 @@
 loadJson(d3.select("#dataSelect").property("value"));
 d3.select("#dataSelect").on("change", function() { loadJson(this.value) });
+d3.select("#submit").on("click", function() { d3.select("svg").remove(); visualize(JSON.parse(d3.select("#textarea").property("value"))); });
 
 function loadJson(dataSet) {
   d3.json("/datasets/" + dataSet + ".json", function(error, json) {

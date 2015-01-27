@@ -20,7 +20,7 @@ input[type = range]:focus {
 	outline: none;
 }
 
-select {
+.button {
 	border: 0 !important;  /*Removes border*/
 	-webkit-appearance: none;  /*Removes default chrome and safari style*/
 	-moz-appearance: none; /* Removes Default Firefox style*/
@@ -34,6 +34,70 @@ select {
 	box-shadow: inset 0 0 5px rgba(000,000,000, 0.5);
 	opacity: .8;
 	margin: 30px 450px;
+}
+
+a.button {
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: .7em;
+}
+
+textarea {
+	width: 400px;
+	height: 150px;
+}
+
+#modal {
+	position: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	z-index: 99999;
+	opacity:0;
+	-webkit-transition: opacity 400ms ease-in;
+	-moz-transition: opacity 400ms ease-in;
+	transition: opacity 400ms ease-in;
+	pointer-events: none;
+}
+
+#modal:target {
+	opacity:1;
+	pointer-events: auto;
+}
+
+#modal > div {
+	width: 400px;
+	position: relative;
+	margin: 10% auto;
+	padding: 5px 20px 13px 20px;
+	border-radius: 10px;
+	background: #fff;
+}
+
+.close {
+	background: #606061;
+	color: #FFFFFF;
+	line-height: 25px;
+	position: absolute;
+	right: -12px;
+	text-align: center;
+	top: -10px;
+	width: 24px;
+	text-decoration: none;
+	font-weight: bold;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+	-moz-box-shadow: 1px 1px 3px #000;
+	-webkit-box-shadow: 1px 1px 3px #000;
+	box-shadow: 1px 1px 3px #000;
+}
+
+.close:hover { 
+	background: #00d9ff; 
 }
 
 ::-webkit-slider-runnable-track {

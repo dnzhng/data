@@ -11,13 +11,22 @@
 </head>
 <body>
 	<div id="pubByYear">
+  <input id="slider" type="range" name="slider" min="0" value="0" step="1"/>
 		<script src="/javascripts/pubsByYear.js" type="text/javascript" charset="utf-8" async defer></script>	
-		<select name="data" id="dataSelect">
-			<option value="ariely_dan">Dan Ariely</option>
-			<option value="baker_lee">Lee Baker</option>
-			<option value="goldstein_david">David Goldstein</option>
-		</select>
-    <input id="slider" type="range" name="slider" min="0" value="0" step="1"/>
+	</div>
+	<select name="data" class="button" id="dataSelect">
+		<option value="ariely_dan">Dan Ariely</option>
+		<option value="baker_lee">Lee Baker</option>
+		<option value="goldstein_david">David Goldstein</option>
+	</select>
+	<a href="#modal" id="#openModal" class="button">Submit your own</a>
+
+	<div id="modal">
+		<div>
+			<a href="#close" title="Close" class="close">X</a>
+			<textarea name="text" id="textarea" placeholder="Copy JSON data here"></textarea>
+			<a href="#" id="submit" class="button">Submit</a>
+		</div>
 	</div>
 </body>
 </html>
