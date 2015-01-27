@@ -1,5 +1,6 @@
 loadJson(d3.select("#dataSelect").property("value"));
 d3.select("#dataSelect").on("change", function() { loadJson(this.value) });
+
 function loadJson(dataSet) {
   d3.json("/datasets/" + dataSet + ".json", function(error, json) {
     if (error) return console.warn(error);
