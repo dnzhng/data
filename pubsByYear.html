@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Scholars @ Duke</title>
+	<link rel="stylesheet" href="css/style.css">
+  <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400' rel='stylesheet' type='text/css'>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+</head>
+<body>
+	<div class="sidebar">
+		<select name="data" class="button" id="dataSelect">
+			<option value="ariely_dan">Dan Ariely</option>
+			<option value="baker_lee">Lee Baker</option>
+			<option value="goldstein_david">David Goldstein</option>
+		</select>
+		<a href="#modal" id="#openModal" class="button">Submit your own</a>
+
+		<div id="modal" class="sidebar">
+			<div>
+				<a href="#close" title="Close" class="close">X</a>
+				<textarea name="text" id="textarea" placeholder="Copy JSON data here"></textarea>
+				<a href="#" id="submit" class="button">Submit</a>
+			</div>
+		</div>
+	</div>
+
+	<div id="pubByYear" class="main">
+  	<input id="slider" type="range" name="slider" min="0" value="0" step="1"/>
+		<script src="/javascripts/pubsByYear.js" type="text/javascript" charset="utf-8" async defer></script>	
+	</div>
+</body>
+</html>
