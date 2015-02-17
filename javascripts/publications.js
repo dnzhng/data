@@ -39,11 +39,13 @@ function visualize (data) {
   function incrementWordCount(s, obj) {
     var title = s.split(/\W+/);
     title.map(function(word) {
-      var w = word.toLowerCase();
-      if (obj[w]) {
-        obj[w]++;
-      } else {
-        obj[w] = 1;
+      if (word) {   
+        var w = word.toLowerCase();
+        if (obj[w]) {
+          obj[w]++;
+        } else {
+          obj[w] = 1;
+        }
       }
     });
   }
