@@ -31,12 +31,12 @@ function visualize (data) {
   var margin = {top: 20, right: 20, bottom: 80, left: 40},
   width = 1200 - margin.left - margin.right,
   height = 500 - margin.top - margin.bottom
-  aspect = 500/1200;
+  aspect = 700/1200;
 
   var fill = d3.scale.category20();
   var svg = d3.select("#publications").append("svg")
     .attr("preserveAspectRatio", "xMidYMid")
-    .attr("viewBox", "0,0,1200,500")
+    .attr("viewBox", "0,0,1200,700")
     .attr("class", "class")
     .attr("width", width + margin.left + margin.right)
     .attr("height", (width + margin.top + margin.bottom)*aspect)
@@ -74,7 +74,21 @@ function visualize (data) {
       return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
     })
     .text(function(d) { return d.text; })
-    .on("dblclick", function(d) {dblclick(d);});
+    .on("dblclick", function(d) {dblclick(d);})
+    .on("mouseover", function(d){ 
+      d3.select(this).transition()
+        .ease('elastic')
+        .duration(1000)
+        .style('font-size', d.size*1.3);
+
+     })
+    .on("mouseout", function(d){ 
+      d3.select(this).transition()
+        .ease('elastic')
+        .duration(1000)
+        .style('font-size', d.size);
+
+     });
   }
 
   function dblclick(d) {
