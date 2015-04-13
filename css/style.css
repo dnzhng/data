@@ -6,6 +6,29 @@ text {
 	fill-opacity: .9;
 }
 
+#fuqua text {
+	font-size: 11px;
+}
+
+.brush .extent {
+  stroke: #fff;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.area {
+  stroke: steelblue;
+  fill: none;
+  clip-path: url(#clip);
+}
+
 circle {
 	fill: #0680CD;
 	fill-opacity: .5;
